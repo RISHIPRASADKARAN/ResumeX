@@ -181,12 +181,25 @@ Industry specific skill recommendations
 Resume version tracking
 Authentication and user profiles
 Live Demo
+## Screenshots
 
-ResumeX is deployed using Streamlit Community Cloud.
+### ResumeX Dashboard
 
-Add your live application URL here:
+![ResumeX Dashboard](assets/screenshots/01_home.png)
 
-YOUR_STREAMLIT_APP_URL
+### Resume Analysis
+
+![Resume Analysis](assets/screenshots/02_analysis_result.png)
+
+### Skill Analysis
+
+![Skill Analysis](assets/screenshots/03_skill_analysis.png)
+
+### Recommendations
+
+![Recommendations](assets/screenshots/04_recommendations.png)
+
+https://resumex-6xb4r77kztmsttevusyr2m.streamlit.app/
 Project Author
 
 Rishi Prasad Karan
